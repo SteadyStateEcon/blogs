@@ -8,6 +8,6 @@
 
 #### Code
 
-_bidens_black_swan_12_19_2021_ is the R code associated with the analysis.
+_bidens_black_swan_12_19_2021.R_ is the R code associated with the analysis.
 
 
